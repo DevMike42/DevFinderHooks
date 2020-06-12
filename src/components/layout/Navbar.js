@@ -21,7 +21,7 @@ const Navbar = ({ icon, title }) => {
 
 // Provides default props for component if not passed from parent
 Navbar.defaultProps = {
-  title: 'Github Finder',
+  title: 'Developer Finder',
   icon: 'fab fa-github'
 };
 
